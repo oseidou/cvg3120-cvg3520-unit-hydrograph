@@ -18,7 +18,7 @@ The repository includes synthetic teaching data only. Browser-uploaded observati
 
 ## Run the app
 
-Extract the entire ZIP and open a terminal in `cvg_unit_hydrograph`. Use Python 3.10 or newer (checked with Python 3.12).
+Clone or download this repository and open a terminal in the folder containing `app.py` and `requirements.txt`. Use Python 3.12 (checked with Python 3.12.14).
 
 ```bash
 python -m venv .venv
